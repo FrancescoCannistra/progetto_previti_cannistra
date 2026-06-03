@@ -1,4 +1,4 @@
-#include "monitor.h"
+#include "funzioni.h"
 #include <unistd.h>
 
 void inizializza_monitor(const char* target_dir, int* fd, int* wd) {
