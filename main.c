@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <unistd.h>
-#include "monitor.h"
+#include "funzioni.h"
 
 int main(int argc, char* argv[]) {
     const char* target_dir = argv[1];
